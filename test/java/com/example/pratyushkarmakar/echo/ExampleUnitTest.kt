@@ -1,4 +1,4 @@
-package com.example.pratyushkarmakar.echo
+package com.example.thathegdegirl.echo
 
 import org.junit.Test
 
