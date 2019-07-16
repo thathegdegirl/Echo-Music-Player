@@ -1,4 +1,4 @@
-package com.example.pratyushkarmakar.echo
+package com.example.thathegdegirl.echo
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
